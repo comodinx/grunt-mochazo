@@ -1,7 +1,7 @@
 {
   "name": "grunt-mochazo",
   "description": "Run Zombie JS and Mocha with Grunt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/comodinx/grunt-mochazo",
   "author": {
     "name": "Nicolas Molina",

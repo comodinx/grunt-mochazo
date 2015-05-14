@@ -2,7 +2,7 @@
 
 describe('OLX search test', function () {
     it('checks if title contains the search query', function(done) {
-        browser.visit('http://www.olx.com.ar:3030', {
+        browser.visit('http://www.olx.com.ar', {
                 duration: 100000
             })
             .then(stepFill)
