@@ -57,8 +57,6 @@ If set grunt-mochazo will pipe reporter output into given file path
 
 For more options see [Mocha options](http://mochajs.org#usage)
 
-Defaults
-
 ### Usage Examples
 
 #### Required Options
